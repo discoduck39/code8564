@@ -42,8 +42,8 @@ public final class Constants {
     public static final double kFeederStation = 14; 
     public static final double kTravel = 0;
 
-    public static final double kLevel0 = 10;
-    public static final double kLevel1 = 10;
+    public static final double kLevel0 = 0;
+    public static final double kLevel1 = 25;
     public static final double kLevel2 = 10; 
     public static final double kLevel3 = 10; 
     public static final double kLevel4 = 10; 
